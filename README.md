@@ -28,7 +28,7 @@
 ## 😤 Challenges I ran into
 
 * Finding teammates to create a project with.
-* Working on the hack w/ my bro as we are both beginners.
+* Working on the hack alone, as I am beginner.
 * Working on 35+ screens
 * Time constraints ( I started late, as it took me to know what the theme was as I couldn’t attend the opening ceremony & couldn’t access my discord account.)
 
